@@ -4,10 +4,19 @@
   <img src="https://raw.githubusercontent.com/aarush-sarkari/aarush-sarkari/main/WhatsApp%20Image%202026-06-08%20at%2009.31.39.jpeg" width="150" style="border-radius:50%;" alt="profile picture" />
 </p>
 
+<div align="center">
+
+<div align="center">
+
 <p align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Building+Smart+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
+</p>
 
+</div>
+
+</div>
 ---
 
 ### 🚀 About Me

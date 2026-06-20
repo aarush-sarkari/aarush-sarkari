@@ -53,17 +53,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aarush-sarkari&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aarush-sarkari/aarush-sarkari/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚙️ Snake animation setup karne ke liye [yahan](https://github.com/Platane/snk) instructions hain — GitHub Actions se auto-generate hota hai.
-
----
 
 ### 🌐 Connect with Me
 
